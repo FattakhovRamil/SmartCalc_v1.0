@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "sstream": "c",
+        "__split_buffer": "c",
+        "deque": "c",
+        "string": "c",
+        "vector": "c",
+        "random": "c",
+        "iosfwd": "c",
+        "complex": "c",
+        "cmath": "c"
+    }
+}
